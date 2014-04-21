@@ -32,7 +32,7 @@ this file! Please suggest additions or changes and send them to me.
 
 Some sections are split into Linux and Windows. The Windows text is developed on
 a Windows 7 system. Compatibility with Windows XP may be there, but is not
-prioritized. 
+prioritized.  
 
 The increasingly more complex topics of this text are:
 - Project introduction and history
